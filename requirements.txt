@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+pydentic
+scikit-learn
+mysql-connector
+dotenv
+-e .
